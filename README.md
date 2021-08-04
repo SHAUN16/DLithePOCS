@@ -15,3 +15,5 @@
                          
                          
 ##3. `GROCERY-LIST(BASIC)`: IT IS DEMONSTRATION OF CREATING A FORM COUNTER TO KEEP TRACK OF NUMBER OF EACH OF THE GROCERY TYPES ON SALE.  
+
+##`REFERENCES`: freecodecamp.org
